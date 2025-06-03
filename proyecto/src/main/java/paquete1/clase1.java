@@ -4,8 +4,12 @@ public class clase1 {
 	
 	
 	public int suma(int num1, int num2) {
-		int paco = num1 + num2; 
-		return paco; 
+
+		
+
+		int sumatoria = num1 + num2; 
+		return sumatoria; 
+
 	}
 	
 
