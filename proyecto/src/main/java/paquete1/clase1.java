@@ -7,13 +7,13 @@ public class clase1 {
 
 		
 
-		int suma = num1 + num2; 
+		int sumatoria = num1 + num2; 
 		return sumatoria; 
 
 	}
 	
 
-	public int resta(int num1, int num2) {
+	public int multiplacion(int num1, int num2) {
 		int resta = num1 - num2; 
 		return resta;  
 	}
@@ -21,7 +21,6 @@ public class clase1 {
 
 	public static void main(String[] args) {
 
-		
 		
 		
 
