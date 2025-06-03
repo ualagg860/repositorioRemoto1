@@ -7,7 +7,7 @@ public class clase1 {
 
 		
 
-		int sumatoria = num1 + num2; 
+		int suma = num1 + num2; 
 		return sumatoria; 
 
 	}
