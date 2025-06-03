@@ -13,7 +13,7 @@ public class clase1 {
 	}
 	
 
-	public int resta(int num1, int num2) {
+	public int multiplacion(int num1, int num2) {
 		int resta = num1 - num2; 
 		return resta;  
 	}
